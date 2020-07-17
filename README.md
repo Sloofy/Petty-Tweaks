@@ -1,5 +1,5 @@
 # Petty-Tweaks
-A tweaked version of the default TF2 HUD. This project is incomplete currently and is done in my spare time.
+A tweaked version of the default TF2 HUD. This project is incomplete currently and is done in my spare time. Please do not use this as it is very young.
 
 # Why?
 Team Fortress 2's default HUD is pretty thematic to the game's setting, and most custom HUDs tend to minimize on the details for sake of clarity. Those HUDs are great, but why not make the default HUD a bit better by tweaking it a bit? Hence, petty tweaks.
