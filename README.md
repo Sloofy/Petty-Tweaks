@@ -9,7 +9,7 @@ On all platforms (Windows, Linux, MacOS), you can install this HUD by right-clic
 
 # Credits
 Thanks to:
-- Octo for lending me his extracted tf_misc_dir.vpk files
+- Octo for lending me his extracted tf2_misc_dir.vpk files
 - rbjaxter's budhud for being inspiration
 - raysfire's and Doodle's tutorials on HUD making
 - the Team Fortress 2 community
