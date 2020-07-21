@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-225"		[$WIN32]
+		"xpos"			"c-255"		[$WIN32]
 		"ypos"			"c20"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"250"
@@ -21,7 +21,6 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
 		"xpos"			"75"
-		"xpos_minmode"	"60"
 		"ypos"			"35"
 		"zpos"			"4"
 		"wide"			"51"
@@ -50,18 +49,11 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"73"	[$WIN32]
-		"xpos_minmode"	"65"	[$WIN32]
 		"xpos"			"83"	[$X360]
 		"ypos"			"33"	[$WIN32]
-		"ypos_minmode"	"40"	[$WIN32]
-		"ypos"			"43"	[$X360]
 		"zpos"			"2"
 		"wide"			"55"	[$WIN32]
-		"wide_minmode"	"40"	[$WIN32]
-		"wide"			"35"	[$X360]
 		"tall"			"55"	[$WIN32]
-		"tall_minmode"	"40"	[$WIN32]
-		"tall"			"35"	[$X360]
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
@@ -85,6 +77,22 @@
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"TanLight"
 	}
+		"PlayerStatusHealthValueBG"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueBG"
+		"xpos"			"79"
+		"ypos"			"55"	[$WIN32]
+		"zpos"			"5"
+		"wide"			"100"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"HudFontGiantBold"
+		"fgcolor"		"Black"
+    }
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
@@ -102,6 +110,22 @@
 		"textAlignment"	"center"	
 		"font"			"HudDefaultSmall"
 		"fgcolor"		"TanDark"
+	}
+    "PlayerStatusHealthBG"
+    {
+    "ControlName"	"CTFImagePanel"
+    "fieldName"     "PlayerStatusHealthBG"
+    "xpos"			"70"
+    "ypos"			"50"
+    "zpos"			"0"
+    "wide"			"90"
+    "tall"			"45"
+    "visible"		"1"
+    "enabled"		"1"
+    "image"			"../hud/ammo_blue_bg"
+    "scaleImage"	"1"	
+    "teambg_2"		"../hud/ammo_red_bg"
+    "teambg_3"		"../hud/ammo_blue_bg"
 	}
 	"PlayerStatusBleedImage"
 	{
