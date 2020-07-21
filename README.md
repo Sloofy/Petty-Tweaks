@@ -1,5 +1,5 @@
 # Petty-Tweaks
-A tweaked version of the default TF2 HUD. This project is incomplete currently and is done in my spare time.
+A tweaked version of the default TF2 HUD. This project is incomplete currently and is done in my spare time. Please do not use this as it is very young.
 
 # Why?
 Team Fortress 2's default HUD is pretty thematic to the game's setting, and most custom HUDs tend to minimize on the details for sake of clarity. Those HUDs are great, but why not make the default HUD a bit better by tweaking it a bit? Hence, petty tweaks.
@@ -9,7 +9,7 @@ On all platforms (Windows, Linux, MacOS), you can install this HUD by right-clic
 
 # Credits
 Thanks to:
-- Octo for lending me his extracted tf_misc_dir.vpk files
+- Octo for lending me his extracted tf2_misc_dir.vpk files
 - rbjaxter's budhud for being inspiration
 - raysfire's and Doodle's tutorials on HUD making
 - the Team Fortress 2 community

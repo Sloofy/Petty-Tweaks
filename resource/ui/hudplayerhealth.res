@@ -5,8 +5,17 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
+<<<<<<< HEAD
 		"xpos"			"c-255"		[$WIN32]
 		"ypos"			"c20"	[$WIN32]
+=======
+		"xpos"			"c-300"		[$WIN32]
+		"xpos_minmode"	"-5"		[$WIN32]
+		"ypos"			"c41"	[$WIN32]
+		"ypos_minmode"	"r88"	[$WIN32]
+		"xpos"			"32"	[$X360]
+		"ypos"			"r144"	[$X360]
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
@@ -21,6 +30,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
 		"xpos"			"75"
+<<<<<<< HEAD
+=======
+		"xpos_minmode"	"60"
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 		"ypos"			"35"
 		"zpos"			"4"
 		"wide"			"51"
@@ -49,11 +62,26 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"73"	[$WIN32]
+<<<<<<< HEAD
 		"xpos"			"83"	[$X360]
 		"ypos"			"33"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"55"	[$WIN32]
 		"tall"			"55"	[$WIN32]
+=======
+		"xpos_minmode"	"65"	[$WIN32]
+		"xpos"			"83"	[$X360]
+		"ypos"			"33"	[$WIN32]
+		"ypos_minmode"	"40"	[$WIN32]
+		"ypos"			"43"	[$X360]
+		"zpos"			"2"
+		"wide"			"55"	[$WIN32]
+		"wide_minmode"	"40"	[$WIN32]
+		"wide"			"35"	[$X360]
+		"tall"			"55"	[$WIN32]
+		"tall_minmode"	"40"	[$WIN32]
+		"tall"			"35"	[$X360]
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
@@ -68,12 +96,18 @@
 		"ypos"			"52"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
+<<<<<<< HEAD
 		"wide"			"100"
 		"tall"			"50"
+=======
+		"wide"			"50"
+		"tall"			"18"
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
+<<<<<<< HEAD
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"TanLight"
 	}
@@ -93,6 +127,11 @@
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
     }
+=======
+		"font"			"HudClassHealth"
+		"fgcolor"		"TanDark"
+	}
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
@@ -104,6 +143,7 @@
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
+<<<<<<< HEAD
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		"%MaxHealth%"
@@ -126,6 +166,14 @@
     "scaleImage"	"1"	
     "teambg_2"		"../hud/ammo_red_bg"
     "teambg_3"		"../hud/ammo_blue_bg"
+=======
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%MaxHealth%"
+		"textAlignment"	"center"	
+		"font"			"DefaultSmall"
+		"fgcolor"		"TanDark"
+>>>>>>> a01571cf1d75b9d8e5d40691a55c2568a37fd476
 	}
 	"PlayerStatusBleedImage"
 	{
