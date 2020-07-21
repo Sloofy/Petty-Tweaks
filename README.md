@@ -10,8 +10,9 @@ On all platforms (Windows, Linux, MacOS), you can install this HUD by right-clic
 # Credits
 Thanks to:
 - Octo for lending me his extracted tf2_misc_dir.vpk files
-- rbjaxter's budhud for being inspiration
-- raysfire's and Doodle's tutorials on HUD making
+- [CriticalFlaw's community HUD fixes](https://github.com/CriticalFlaw/TF2-HUD-Fix) as the base of the HUD
+- [rbjaxter's budhud](https://github.com/rbjaxter/budhud) for being inspiration
+- [raysfire's](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs) and [Doodle's tutorials](http://doodlesstuff.com/?p=tf2hud&page=started) on HUD making
 - the Team Fortress 2 community
 
 # Support
