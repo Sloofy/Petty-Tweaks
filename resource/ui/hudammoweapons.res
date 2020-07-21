@@ -21,9 +21,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
 		"xpos"			"4"
-		"xpos_minmode"	"28"
 		"ypos"			"0"
-		"ypos_minmode"	"7"
 		"zpos"			"0"
 		"wide"			"0"
 		"tall"			"0"
@@ -32,9 +30,7 @@
 		"image"			"../hud/ammo_red_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
-		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+		"teambg_3"		"../hud/ammo_blue_bg"	
 	}
 	"AmmoInClip"
 	{
