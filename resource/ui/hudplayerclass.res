@@ -7,7 +7,6 @@
 		"fieldName"		"HudPlayerClass"
 		"xpos"			"0"
 		"ypos"			"0"
-		"ypos_minmode"	"18"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
@@ -18,8 +17,8 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"25"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
+		"xpos"			"25"
+		"ypos"			"410"
 		"zpos"			"2"
 		"wide"			"75"
 		"wide_minmode"	"37"
