@@ -3,8 +3,8 @@ A tweaked version of the default TF2 HUD with the idea to keep with the theme of
 
 While it tweaks the default HUD, it in no way is it supposed to act as a 1:1 replacement. It strips of some entry-level features that beginning players might need which advanced players may not depend on.
 
-![5CP Gameplay](https://imgur.com/Wdh4PBz)
-![Main Menu](https://imgur.com/lMQH5zK)
+![5CP Gameplay](https://i.imgur.com/Wdh4PBz)
+![Main Menu](https://i.imgur.com/lMQH5zK)
 
 # Implemented Changes
 - Uses [CriticalFlaw's community HUD fixes](https://github.com/CriticalFlaw/TF2-HUD-Fix)
@@ -13,6 +13,7 @@ While it tweaks the default HUD, it in no way is it supposed to act as a 1:1 rep
 - The cycling ad on the main menu has been removed, and the friends list space has been increased
 - The spectator view has been cleaned up
 - Capture point objectives are smaller
+- Chat is in a (debatably) less obstructive space
 - More to change soon. Feedback is welcome!
 
 # Why?
