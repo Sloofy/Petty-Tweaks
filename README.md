@@ -5,6 +5,7 @@ While it tweaks the default HUD, it in no way is it supposed to act as a 1:1 rep
 
 ![5CP Gameplay](https://i.imgur.com/Wdh4PBz.png)
 ![Main Menu](https://i.imgur.com/lMQH5zK.png)
+[i] Screenshots may not be representative of the current build [/i]
 
 # Implemented Changes
 - Uses [CriticalFlaw's community HUD fixes](https://github.com/CriticalFlaw/TF2-HUD-Fix)
