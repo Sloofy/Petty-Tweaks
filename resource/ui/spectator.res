@@ -18,10 +18,10 @@
 	{
 		"ControlName"		"Panel"
 		"fieldName"		"TopBar"
-		"ypos"			"9999"
-		"tall"			"0"
-        "visible"		"0"
-		"enabled"		"0"
+		"ypos"			"0"
+		"tall"			"55"
+        "visible"		"1"
+		"enabled"		"1"
 	}
 	"BottomBar"
 	{
@@ -46,7 +46,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"
-		"ypos"			"50"
+		"ypos"			"33"
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
 		"wide"			"600"
@@ -80,28 +80,14 @@
 	}
 	"MapLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"MapLabel"
-		"font"			"HudFontSmall"
-		"font_hidef"		"HudFontMedium"
-		"xpos"			"r260"
-		"ypos"			"16"
-		"wide"			"240"
-		"tall"			"20"
-		"tall_hidef"		"30"
-		"autoResize"		"0"
-		"pinCorner"		"0"
 		"visible"		"0"
-		"visible_minmode"		"0"
 		"enabled"		"0"
-		"labelText"		"map: cp_bridge"
-		"textAlignment"		"east"
 	}
 	"ClassOrTeamHintIcon"
 	{
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"ClassOrTeamHintIcon"
-		"ypos"			"9999"		
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -109,7 +95,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
-		"ypos"			"9999"		
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -117,7 +103,7 @@
 	{
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"CycleTargetFwdHintIcon"
-		"ypos"			"9999"		
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -125,7 +111,7 @@
 	{
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"CycleTargetRevHintIcon"
-		"ypos"			"9999"		
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -133,7 +119,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"ypos"			"9999"		
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -141,7 +127,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"ypos"			"9999"	
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 	}
