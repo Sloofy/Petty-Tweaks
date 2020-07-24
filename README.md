@@ -28,7 +28,7 @@ Thanks to:
 - Octo for lending me his extracted tf2_misc_dir.vpk files
 - [CriticalFlaw's community HUD fixes](https://github.com/CriticalFlaw/TF2-HUD-Fix) as the base of the HUD
 - [rbjaxter's budhud](https://github.com/rbjaxter/budhud) for being inspiration
-- [raysfire's](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs), [Flame's Guide to HUDs](https://issuu.com/stefanbunduc/docs/flamehud), [JarateKing's HUD reference](https://github.com/JarateKing/TF2-Hud-Reference), and [Doodle's tutorials](http://doodlesstuff.com/?p=tf2hud&page=started) on HUD making
+- [raysfire's tutorials](https://www.youtube.com/playlist?list=PL5eNrB8RrXXuV3P1nv6NnwF-tCL_KnJIs), [Flame's Guide to HUDs](https://issuu.com/stefanbunduc/docs/flamehud), [JarateKing's HUD reference](https://github.com/JarateKing/TF2-Hud-Reference), and [Doodle's tutorials](http://doodlesstuff.com/?p=tf2hud&page=started) on HUD making
 - the Team Fortress 2 community
 
 # Support
